@@ -24,5 +24,5 @@ Then go to your browser and run **http://localhost:8000**
 
  ## For Stoping Network
 ```
-  **docker rm -f $(docker ps -aq)**
+  docker rm -f $(docker ps -aq)
 ```
